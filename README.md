@@ -40,7 +40,7 @@ Gen-AI-Bank-FAQ-Bot/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/gen-ai-bank-faq-bot.git
+git clone https://github.com/huzz10/Generative-AI-in-Bank_System.git
 cd gen-ai-bank-faq-bot
 ```
 
