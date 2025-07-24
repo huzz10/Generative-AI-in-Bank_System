@@ -1,6 +1,6 @@
-pandas
 streamlit
+pandas
 google-generativeai
 sentence-transformers
-python-dotenv
 scikit-learn
+python-dotenv
