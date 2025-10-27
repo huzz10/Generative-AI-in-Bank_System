@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": "2025-08-23T00:24:41.917347",
+    "user_id": "test_user",
+    "question": "What are your banking hours?",
+    "answer": "I do not have access to banking hours. However, the cut-off time for same day NAV is 1400 hours i.e. 2.00 p.m. (Indian Standard Time). All instructions received on transaction day before the cut-off time will be eligible for same day's NAV (except Saturdays, Sundays and Holidays). For transactions received post cut-off time, NAV applicable will be as on next working day. In case of Liquid Scheme, NAV is being computed as mentioned below: Cut-off time for Historic NAV is 1230 hours i.e. 12.30 p.m. (Indian Standard Time). All instructions received on transaction day before the cut-off time will be eligible for Historic NAV (except Saturdays, Sundays and Holidays). Cut-off time for same day NAV is 1400 hours i.e. 2.00 p.m. (Indian Standard Time). All instructions received on transaction day after 12.30pm and before the cut-off time ie 2.00pm will be eligible for same day's NAV (except Friday ,Saturdays, Sundays and Holidays). In case of Liquid Scheme transactions done after 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off on Thursday but prior to 1230 hours i.e. 12.30 p.m. (Indian Standard Time) cut-off of time of Friday, the NAV for Thursday would be applicable . In case of Liquid Scheme transactions done after 1230 hours i.e. 12.30 p.m. (Indian Standard Time) on friday but prior to 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off of time of Friday, the NAV for Sunday would be applicable as per AMC rules for NAV applicability (NAV for next business day - 1 day will be applicable). In case of Liquid Scheme transactions done after 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off on Friday or transactions done on any holiday, Saturday or Sunday, the applicable NAV will be of the next declared NAV from AMC end. In case of Liquid Scheme transactions done after 1230 hours i.e. 12.30 p.m. (Indian Standard Time) on a day prior to a non working day, the applicable NAV will be of the holiday. (In case of consequent holidays the last holiday NAV is taken as the Holiday NAV). We agree and acknowledge that any instruction given or purported to be given by me/us before the cut off time as may be intimated by HDFC Bank to me/us from time to time, will be processed on the same day. Any instructions received after the prescribed cut off time will be processed on the next working day. We acknowledge that any transaction request falling due on a holiday will be processed on the next business day and the respective NAV will be applicable as per the Mutual Fund's offer document.",
+    "sources": [
+      {
+        "answer": "Cut-off time for same day NAV is 1400 hours i.e. 2.00 p.m. (Indian Standard Time). All instructions received on transaction day before the cut-off time will be eligible for same day's NAV (except Saturdays, Sundays and Holidays). For transactions received post cut-off time, NAV applicable will be as on next working day. In case of Liquid Scheme, NAV is being computed as mentioned below: Cut-off time for Historic NAV is 1230 hours i.e. 12.30 p.m. (Indian Standard Time). All instructions received on transaction day before the cut-off time will be eligible for Historic NAV (except Saturdays, Sundays and Holidays). Cut-off time for same day NAV is 1400 hours i.e. 2.00 p.m. (Indian Standard Time). All instructions received on transaction day after 12.30pm and before the cut-off time ie 2.00pm will be eligible for same day's NAV (except Friday ,Saturdays, Sundays and Holidays). In case of Liquid Scheme transactions done after 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off on Thursday but prior to 1230 hours i.e. 12.30 p.m. (Indian Standard Time) cut-off of time of Friday, the NAV for Thursday would be applicable . In case of Liquid Scheme transactions done after 1230 hours i.e. 12.30 p.m. (Indian Standard Time) on friday but prior to 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off of time of Friday, the NAV for Sunday would be applicable as per AMC rules for NAV applicability (NAV for next business day - 1 day will be applicable). In case of Liquid Scheme transactions done after 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off on Friday or transactions done on any holiday, Saturday or Sunday, the applicable NAV will be of the next declared NAV from AMC end. In case of Liquid Scheme transactions done after 1230 hours i.e. 12.30 p.m. (Indian Standard Time) on a day prior to a non working day, the applicable NAV will be of the holiday. (In case of consequent holidays the last holiday NAV is taken as the Holiday NAV). We agree and acknowledge that any instruction given or purported to be given by me/us before the cut off time as may be intimated by HDFC Bank to me/us from time to time, will be processed on the same day. Any instructions received after the prescribed cut off time will be processed on the next working day. We acknowledge that any transaction request falling due on a holiday will be processed on the next business day and the respective NAV will be applicable as per the Mutual Fund's offer document. View more",
+        "source": "bank_faq",
+        "question": "What are the cut-off timings for the Investment Services Account"
+      },
+      {
+        "answer": "Cut-off time for same day NAV is 1400 hours i.e. 2.00 p.m. (Indian Standard Time). All instructions received on transaction day before the cut-off time will be eligible for same day's NAV (except Saturdays, Sundays and Holidays). For transactions received post cut-off time, NAV applicable will be as on next working day. In case of Liquid Scheme, NAV is being computed as mentioned below: Cut-off time for Historic NAV is 1230 hours i.e. 12.30 p.m. (Indian Standard Time). All instructions received on transaction day before the cut-off time will be eligible for Historic NAV (except Saturdays, Sundays and Holidays). Cut-off time for same day NAV is 1400 hours i.e. 2.00 p.m. (Indian Standard Time). All instructions received on transaction day after 12.30pm and before the cut-off time ie 2.00pm will be eligible for same day's NAV (except Friday ,Saturdays, Sundays and Holidays). In case of Liquid Scheme transactions done after 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off on Thursday but prior to 1230 hours i.e. 12.30 p.m. (Indian Standard Time) cut-off of time of Friday, the NAV for Thursday would be applicable . In case of Liquid Scheme transactions done after 1230 hours i.e. 12.30 p.m. (Indian Standard Time) on friday but prior to 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off of time of Friday, the NAV for Sunday would be applicable as per AMC rules for NAV applicability (NAV for next business day - 1 day will be applicable). In case of Liquid Scheme transactions done after 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off on Friday or transactions done on any holiday, Saturday or Sunday, the applicable NAV will be of the next declared NAV from AMC end. In case of Liquid Scheme transactions done after 1230 hours i.e. 12.30 p.m. (Indian Standard Time) on a day prior to a non working day, the applicable NAV will be of the holiday. (In case of consequent holidays the last holiday NAV is taken as the Holiday NAV). We agree and acknowledge that any instruction given or purported to be given by me/us before the cut off time as may be intimated by HDFC Bank to me/us from time to time, will be processed on the same day. Any instructions received after the prescribed cut off time will be processed on the next working day. We acknowledge that any transaction request falling due on a holiday will be processed on the next business day and the respective NAV will be applicable as per the Mutual Fund's offer document. View more",
+        "question": "What are the cut-off timings for the Investment Services Account",
+        "source": "bank_faq"
+      },
+      {
+        "question": "What are the cut-off timings for the Investment Services Account",
+        "answer": "Cut-off time for same day NAV is 1400 hours i.e. 2.00 p.m. (Indian Standard Time). All instructions received on transaction day before the cut-off time will be eligible for same day's NAV (except Saturdays, Sundays and Holidays). For transactions received post cut-off time, NAV applicable will be as on next working day. In case of Liquid Scheme, NAV is being computed as mentioned below: Cut-off time for Historic NAV is 1230 hours i.e. 12.30 p.m. (Indian Standard Time). All instructions received on transaction day before the cut-off time will be eligible for Historic NAV (except Saturdays, Sundays and Holidays). Cut-off time for same day NAV is 1400 hours i.e. 2.00 p.m. (Indian Standard Time). All instructions received on transaction day after 12.30pm and before the cut-off time ie 2.00pm will be eligible for same day's NAV (except Friday ,Saturdays, Sundays and Holidays). In case of Liquid Scheme transactions done after 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off on Thursday but prior to 1230 hours i.e. 12.30 p.m. (Indian Standard Time) cut-off of time of Friday, the NAV for Thursday would be applicable . In case of Liquid Scheme transactions done after 1230 hours i.e. 12.30 p.m. (Indian Standard Time) on friday but prior to 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off of time of Friday, the NAV for Sunday would be applicable as per AMC rules for NAV applicability (NAV for next business day - 1 day will be applicable). In case of Liquid Scheme transactions done after 1400 hours i.e. 2.00 p.m. (Indian Standard Time) cut-off on Friday or transactions done on any holiday, Saturday or Sunday, the applicable NAV will be of the next declared NAV from AMC end. In case of Liquid Scheme transactions done after 1230 hours i.e. 12.30 p.m. (Indian Standard Time) on a day prior to a non working day, the applicable NAV will be of the holiday. (In case of consequent holidays the last holiday NAV is taken as the Holiday NAV). We agree and acknowledge that any instruction given or purported to be given by me/us before the cut off time as may be intimated by HDFC Bank to me/us from time to time, will be processed on the same day. Any instructions received after the prescribed cut off time will be processed on the next working day. We acknowledge that any transaction request falling due on a holiday will be processed on the next business day and the respective NAV will be applicable as per the Mutual Fund's offer document. View more",
+        "source": "bank_faq"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-23T00:24:44.323264",
+    "user_id": "test_user",
+    "question": "How do I open a new account?",
+    "answer": "To open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof, Address Proof, and Latest passport size photographs.",
+    "sources": [
+      {
+        "answer": "In order to open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof Address Proof Latest passport size photographs Click here to see the List of valid identity/addres proof.",
+        "source": "bank_faq",
+        "question": "What are the documents required to open a New Savings Account"
+      },
+      {
+        "answer": "In order to open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof Address Proof Latest passport size photographs Click here to see the List of valid identity/addres proof.",
+        "question": "What are the documents required to open a New Savings Account",
+        "source": "bank_faq"
+      },
+      {
+        "question": "What are the documents required to open a New Savings Account",
+        "answer": "In order to open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof Address Proof Latest passport size photographs Click here to see the List of valid identity/addres proof.",
+        "source": "bank_faq"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-23T00:24:46.488479",
+    "user_id": "test_user",
+    "question": "What documents do I need?",
+    "answer": "To open a new Savings Account, you'll need to bring the following documents to the nearest HDFC Bank:\n\n*   Identity Proof\n*   Address Proof\n*   Latest passport size photographs\n\nRemember to bring the originals for verification and self-attested copies for submission.",
+    "sources": [
+      {
+        "source": "bank_faq",
+        "question": "What are the documents required to open a New Savings Account",
+        "answer": "In order to open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof Address Proof Latest passport size photographs Click here to see the List of valid identity/addres proof."
+      },
+      {
+        "question": "What are the documents required to open a New Savings Account",
+        "answer": "In order to open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof Address Proof Latest passport size photographs Click here to see the List of valid identity/addres proof.",
+        "source": "bank_faq"
+      },
+      {
+        "source": "bank_faq",
+        "question": "What are the documents required to open a New Savings Account",
+        "answer": "In order to open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof Address Proof Latest passport size photographs Click here to see the List of valid identity/addres proof."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-23T00:24:48.693036",
+    "user_id": "test_user",
+    "question": "What are the fees?",
+    "answer": "I'm sorry, but I don't have any information about the fees for opening a new Savings Account at HDFC Bank.",
+    "sources": [
+      {
+        "source": "bank_faq",
+        "answer": "In order to open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof Address Proof Latest passport size photographs Click here to see the List of valid identity/addres proof.",
+        "question": "What are the documents required to open a New Savings Account"
+      },
+      {
+        "question": "What are the documents required to open a New Savings Account",
+        "answer": "In order to open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof Address Proof Latest passport size photographs Click here to see the List of valid identity/addres proof.",
+        "source": "bank_faq"
+      },
+      {
+        "source": "bank_faq",
+        "answer": "In order to open a new Savings Account, simply walk into the nearest HDFC Bank and speak to a customer service executive. Remember to carry the following documents (original for verification and self-attested copies for submission): Identity Proof Address Proof Latest passport size photographs Click here to see the List of valid identity/addres proof.",
+        "question": "What are the documents required to open a New Savings Account"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-24T20:36:09.305807",
+    "user_id": "default",
+    "question": "how to take loan",
+    "answer": "You can apply online by clicking on the provided link or visit any of our branches in the 11 mentioned locations. Our Sales Managers will assist you with your needs.",
+    "sources": [
+      {
+        "question": "Whom do I contact in case of ay further queries regarding the loan",
+        "answer": "You can apply online on the clicking on the below given link, also you can walk into any of our branches located in 11 mentioned locations and our Sales Managers will help you with your need",
+        "source": "bank_faq"
+      },
+      {
+        "source": "bank_faq",
+        "answer": "You can apply online on the clicking on the below given link, also you can walk into any of our branches located in 11 mentioned locations and our Sales Managers will help you with your need",
+        "question": "Whom do I contact in case of ay further queries regarding the loan"
+      },
+      {
+        "question": "Whom do I contact in case of ay further queries regarding the loan",
+        "source": "bank_faq",
+        "answer": "You can apply online on the clicking on the below given link, also you can walk into any of our branches located in 11 mentioned locations and our Sales Managers will help you with your need"
+      }
+    ]
+  }
+]

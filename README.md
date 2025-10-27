@@ -1,9 +1,6 @@
 # 🏦 Smart Bank Assistant with LangChain & Vector Embeddings
 
 A sophisticated AI-powered banking chatbot that uses LangChain, vector embeddings, and conversation memory to provide intelligent, contextual responses to banking-related queries.
-<img width="1500" height="849" alt="Screenshot 2025-10-27 234717" src="https://github.com/user-attachments/assets/efb4d17a-bcb5-405a-8e3e-b07985695edf" />
-
-<img width="905" height="750" alt="Screenshot 2025-10-27 234701" src="https://github.com/user-attachments/assets/06698e02-c923-489f-9246-bc8cedefd2a8" />
 
 ## ✨ Features
 
@@ -207,4 +204,3 @@ This project is for educational and demonstration purposes. Please ensure compli
 ---
 
 **Built with ❤️ using LangChain, Flask, and Google Gemini AI**
-

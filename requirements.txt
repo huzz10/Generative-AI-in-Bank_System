@@ -1,0 +1,10 @@
+pandas
+flask
+google-generativeai
+sentence-transformers
+python-dotenv
+scikit-learn
+langchain
+langchain-google-genai
+chromadb
+langchain-community
